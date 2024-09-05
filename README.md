@@ -1,4 +1,4 @@
-### Move Contract: `tx::app`
+# Move Contract: `tx::app`
 
 The Move contract `tx::app` provides a simple on-chain messaging service where users can sign and store messages. Each message is stored on the blockchain and associated with a timestamp and the sender's address. Here's a breakdown of the contract's key components:
 
@@ -48,7 +48,7 @@ The Move contract `tx::app` provides a simple on-chain messaging service where u
 
 ### Interact with the contract
 
-All the parameter and dependendecies are defined in `Move.toml`
+All the parameters and dependendecies are defined in `Move.toml`
 
 1. Initial Setup**
 Initialize your Aptos CLI wallet and configure your environment.
